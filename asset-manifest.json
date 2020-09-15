@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ig-reels/static/css/main.6030e31b.chunk.css",
+    "main.js": "/ig-reels/static/js/main.dcfc5f01.chunk.js",
+    "main.js.map": "/ig-reels/static/js/main.dcfc5f01.chunk.js.map",
+    "runtime-main.js": "/ig-reels/static/js/runtime-main.703e94b5.js",
+    "runtime-main.js.map": "/ig-reels/static/js/runtime-main.703e94b5.js.map",
+    "static/js/2.f9dd8aa6.chunk.js": "/ig-reels/static/js/2.f9dd8aa6.chunk.js",
+    "static/js/2.f9dd8aa6.chunk.js.map": "/ig-reels/static/js/2.f9dd8aa6.chunk.js.map",
+    "index.html": "/ig-reels/index.html",
+    "precache-manifest.83171c717f00d34db0e874f5ec4ea062.js": "/ig-reels/precache-manifest.83171c717f00d34db0e874f5ec4ea062.js",
+    "service-worker.js": "/ig-reels/service-worker.js",
+    "static/css/main.6030e31b.chunk.css.map": "/ig-reels/static/css/main.6030e31b.chunk.css.map",
+    "static/js/2.f9dd8aa6.chunk.js.LICENSE.txt": "/ig-reels/static/js/2.f9dd8aa6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.703e94b5.js",
+    "static/js/2.f9dd8aa6.chunk.js",
+    "static/css/main.6030e31b.chunk.css",
+    "static/js/main.dcfc5f01.chunk.js"
+  ]
+}
